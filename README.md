@@ -1,2 +1,6 @@
-# POO1---Exerc-cio-JSON
-Exercício JSON - Programação Orientada a Objetos 1 - BCC 2019-2
+# Sobre ❓
+  Exercícios com manipulação de arquivos JSON
+
+# Pré Requisitos ✔️
+- Java instalado
+- IDE Eclipse ou Netbeans
